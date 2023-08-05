@@ -1,0 +1,8 @@
+05 Aug 2023 09:17:13  INFO logger - .
+05 Aug 2023 09:17:13  INFO logger - Facebook - Masuk atau Daftar page loaded successfully
+05 Aug 2023 09:17:30  INFO logger - Shutting down driver
+----------------------------------------------
+05 Aug 2023 09:17:38  INFO logger - .
+05 Aug 2023 09:17:38  INFO logger - IP Block page loaded successfully
+05 Aug 2023 09:20:03  INFO logger - Shutting down driver
+----------------------------------------------
